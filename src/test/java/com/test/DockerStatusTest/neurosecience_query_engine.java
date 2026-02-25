@@ -15,8 +15,8 @@ public class neurosecience_query_engine {
     public void neurosecience_query_engine_Status() {
 
         String vmIpAddress = "172.20.23.157";
-        String username = "appUser";
-        String password = "Brain@123";
+        String username = "hbp";
+        String password = "hbpsgbc@123";
         String containerName = "production"; 
 
         System.out.println("neurosecience_query_engine Docker Name = " + containerName);
@@ -122,3 +122,4 @@ public class neurosecience_query_engine {
         }
     }
 }
+
